@@ -2,7 +2,7 @@
 
 # Initialize local repository
 ```
-repo init -u https://github.com/Evolution-X/manifest -b vic --git-lfs
+repo init -u https://github.com/skye-pa1n/manifest -b vic --git-lfs
 ```
 
 # Sync up
@@ -19,7 +19,7 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 
 - Lunch a target
 ```bash
-lunch lineage_codename-ap3a-userdebug
+lunch lineage_r8q-eng
 ```
 
 - To start compiling
